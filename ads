@@ -2,7 +2,7 @@
     "status": true,
     "data": {
             "versionCode": 1,
-            "versionName": "1.0",
+            "versionName": "1.0.0",
             "link": "",
             "wait": false
             }
