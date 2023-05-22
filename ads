@@ -3,7 +3,7 @@
     "data": {
             "versionCode": 3,
             "versionName": "3.0.0",
-            "message":"ပိုလန်းသော အပ်ဒိတ်ဗားရှင်းရပါပြီ။ ကြိုက်နှစ်သက်ရာနှင့် အပ်ဒိတ်မြင့်နိူင်ရန် update ကို နှိပ်ပါ။",
+            "message":"လူကြီးမင်းအတွက် ပိုလန်းသော အပ်ဒိတ်ဗားရှင်းရပါပြီ။",
             "link": "https://linktr.ee/innlaytv",
             "wait": false,
             "check": 1
