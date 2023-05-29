@@ -6,6 +6,7 @@
             "message":"လူကြီးမင်းအတွက် ပိုလန်းသော အပ်ဒိတ်ဗားရှင်းရပါပြီ။",
             "link": "https://linktr.ee/innlaytv",
             "wait": false,
-            "check": 1
+            "check": 1,
+            "dg":true
             }
 }
