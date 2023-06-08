@@ -8,6 +8,6 @@
             "link": "https://linktr.ee/innlaytv",
             "wait": false,
             "check": 1,
-            "dg":true
+            "dg":false
             }
 }
