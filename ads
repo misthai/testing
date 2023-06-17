@@ -7,7 +7,7 @@
             "noti":"Live TV နှင့် Moviesများကြည့်ရန် အပေါ်ဘားမှ စာသားအား ၄ကြိမ်နှိပ်၍ပြောင်းပါ။",
             "link": "https://linktr.ee/innlaytv",
             "wait": false,
-            "check": 0,
+            "check": 1,
             "dg":true
             }
 }
