@@ -7,7 +7,7 @@
             "smessage_mm":"အခြားနေရာမှ ဒေါင်းထားခြင်းဖြစ်သည်။ ကျေးဇူးပြု၍ ပလေးစတိုး မှ ဒေါင်းလုပ်ဆွဲ၍ အသုံးပြုပါ။",
             "smessage_eng":"Install from playstore. No external download allowed.",
             "noti":"Live TV နှင့် Moviesများကြည့်ရန် အပေါ်ဘားမှ စာသားအား ၄ကြိမ်နှိပ်၍ပြောင်းပါ။",
-            "link": "https://linktr.ee/innlaytv",
+            "link": "https://play.google.com/store/apps/details?id=com.innlaytv.live",
             "wait": false,
             "store":true,
             "check": 0,
