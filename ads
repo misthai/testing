@@ -9,7 +9,7 @@
             "noti":"Live TV နှင့် Moviesများကြည့်ရန် အပေါ်ဘားမှ စာသားအား ၄ကြိမ်နှိပ်၍ပြောင်းပါ။",
             "link": "https://play.google.com/store/apps/details?id=com.innlaytv.live",
             "wait": false,
-            "store":true,
+            "store":false,
             "check": 0,
             "dg":false
             }
