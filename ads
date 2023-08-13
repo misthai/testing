@@ -10,7 +10,7 @@
             "link": "https://play.google.com/store/apps/details?id=com.innlaytv.live",
             "wait": false,
             "store":false,
-            "check": 0,
+            "check": 1,
             "dg":false,
             "force":true
             }
