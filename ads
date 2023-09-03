@@ -11,7 +11,7 @@
             "wait": false,
             "store":false,
             "check": 1,
-            "dg":true,
+            "dg":false,
             "force":true
             }
 }
