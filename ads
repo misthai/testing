@@ -2,7 +2,7 @@
     "status": true,
     "data": {
             "versionCode": 10,
-            "versionName": "1.2.3",
+            "versionName": "1.0.0",
             "message":"Myanmar\nပိုမိုပြည့်စုံကောင်းမွန်သော အပ်ဒိတ်ဗားရှင်းရပါပြီ။\n\nEnglish\n Updated version is available",
             "smessage_mm":"အခြားနေရာမှ ဒေါင်းထားခြင်းဖြစ်သည်။ ကျေးဇူးပြု၍ ပလေးစတိုး မှ ဒေါင်းလုပ်ဆွဲ၍ အသုံးပြုပါ။",
             "smessage_eng":"Install from playstore. No external download allowed.",
